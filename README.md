@@ -30,6 +30,10 @@ pip install -r requirements.txt
 pip install pyinstaller
 ```
 
+To run the app:
+
+python main.py
+
 Run the command:
 ```bash
 pyinstaller --onefile --windowed --clean --icon=sample-icon.ico main.py
